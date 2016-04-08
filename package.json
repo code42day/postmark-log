@@ -7,6 +7,9 @@
     "email": "pirxpilot@code42day.com",
     "url": "https://code42day.com"
   },
+  "bin": {
+    "postmark-log": "./bin/postmark-log"
+  },
   "repository": "code42day/postmark-log",
   "license": "MIT",
   "keywords": [
@@ -17,7 +20,8 @@
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "moment": "^2.12.0",
-    "postmark": "^1.2.1"
+    "postmark": "^1.2.1",
+    "yargs": "^4.4.0"
   },
   "devDependencies": {
     "jshint": "^2.9.1",
