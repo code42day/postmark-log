@@ -14,7 +14,11 @@
     "email",
     "postmark"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "moment": "^2.12.0",
+    "postmark": "^1.2.1"
+  },
   "devDependencies": {
     "jshint": "^2.9.1",
     "mocha": "^2.4.5",
