@@ -4,13 +4,13 @@
   "description": "Logs all messages sent by postmark service.",
   "author": {
     "name": "Damian Krzeminski",
-    "email": "pirxpilot@code42day.com",
-    "url": "https://code42day.com"
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
   },
   "bin": {
     "postmark-log": "./bin/postmark-log"
   },
-  "repository": "code42day/postmark-log",
+  "repository": "pirxpilot/postmark-log",
   "license": "MIT",
   "keywords": [
     "postmark-log",

@@ -27,13 +27,13 @@ Options:
 
 ## License
 
-MIT © [Damian Krzeminski](https://code42day.com)
+MIT © [Damian Krzeminski](https://pirxpilot.me)
 
 [npm-image]: https://img.shields.io/npm/v/postmark-log.svg
 [npm-url]: https://npmjs.org/package/postmark-log
 
-[travis-url]: https://travis-ci.org/code42day/postmark-log
-[travis-image]: https://img.shields.io/travis/code42day/postmark-log.svg
+[travis-url]: https://travis-ci.org/pirxpilot/postmark-log
+[travis-image]: https://img.shields.io/travis/pirxpilot/postmark-log.svg
 
-[gemnasium-image]: https://img.shields.io/gemnasium/code42day/postmark-log.svg
-[gemnasium-url]: https://gemnasium.com/code42day/postmark-log
+[gemnasium-image]: https://img.shields.io/gemnasium/pirxpilot/postmark-log.svg
+[gemnasium-url]: https://gemnasium.com/pirxpilot/postmark-log
