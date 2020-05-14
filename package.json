@@ -1,6 +1,6 @@
 {
   "name": "postmark-log",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Logs all messages sent by postmark service.",
   "author": {
     "name": "Damian Krzeminski",
