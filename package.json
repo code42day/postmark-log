@@ -18,7 +18,6 @@
     "postmark"
   ],
   "dependencies": {
-    "async": "^2.0.0-rc.3",
     "postmark": "^1.2.1",
     "yargs": "^4.4.0"
   },
