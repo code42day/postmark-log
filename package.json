@@ -18,7 +18,7 @@
     "postmark"
   ],
   "dependencies": {
-    "postmark": "^1.2.1",
+    "postmark": "~2",
     "yargs": "~15"
   },
   "devDependencies": {
