@@ -18,17 +18,18 @@
     "postmark"
   ],
   "dependencies": {
-    "async": "^2.0.0-rc.3",
-    "moment": "^2.12.0",
-    "postmark": "^1.2.1",
-    "yargs": "^4.4.0"
+    "postmark": "~2",
+    "yargs": "~15"
   },
   "devDependencies": {
-    "jshint": "^2.9.1",
-    "mocha": "^2.4.5",
-    "should": "^8.3.0"
+    "jshint": "^2.9.1"
   },
   "scripts": {
     "test": "make check"
-  }
+  },
+  "files": [
+    "index.js",
+    "bin",
+    "lib"
+  ]
 }
