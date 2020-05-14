@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "postmark": "^1.2.1",
-    "yargs": "^4.4.0"
+    "yargs": "~15"
   },
   "devDependencies": {
     "jshint": "^2.9.1"
