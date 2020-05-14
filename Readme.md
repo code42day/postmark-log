@@ -1,6 +1,6 @@
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Dependency Status][gemnasium-image]][gemnasium-url]
+[![Dependency Status][deps-image]][deps-url]
 
 # postmark-log
 
@@ -32,8 +32,8 @@ MIT © [Damian Krzeminski](https://pirxpilot.me)
 [npm-image]: https://img.shields.io/npm/v/postmark-log.svg
 [npm-url]: https://npmjs.org/package/postmark-log
 
-[travis-url]: https://travis-ci.org/pirxpilot/postmark-log
-[travis-image]: https://img.shields.io/travis/pirxpilot/postmark-log.svg
+[travis-image]: https://img.shields.io/travis/com/pirxpilot/postmark-log.svg
+[travis-url]: https://travis-ci.com/pirxpilot/postmark-log
 
-[gemnasium-image]: https://img.shields.io/gemnasium/pirxpilot/postmark-log.svg
-[gemnasium-url]: https://gemnasium.com/pirxpilot/postmark-log
+[deps-image]: https://img.shields.io/david/pirxpilot/postmark-log.svg
+[deps-url]: https://david-dm.org/pirxpilot/postmark-log
